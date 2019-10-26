@@ -8,13 +8,13 @@ On my home page their will be navigation bar (Home, updates, Tourism and About i
 Left column(75% of the page) and Right column (23% of the page). On Left column their will be Introduction of Africa and the images. On the Right their will a footer with African regions it’ll be links to the next page and images.
 
 Features my website will be:
-Friendly
-Approachable
-Professional
-Exclusive 
-Stylish
-High-tech
-Responsive
+Friendly,
+Approachable,
+Professional,
+Exclusive,
+Stylish,
+High-tech,
+Responsive,
 Powerful etc…    Thank you
 
 
