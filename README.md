@@ -2,7 +2,7 @@
 
 # Introduction
 
-* This website will be helping people to know more about Africa as the second largest continent in the world, both by land area and population. There are 54 countries located in Africa. Aside from 54 recognized states, there are two states whose independence is disputed (Western Sahara and Somaliland). 
+* This website will help people to know more about Africa as the second largest continent in the world, both by land area and population. There are 54 countries located in Africa. Aside from 54 recognized states, there are two states whose independence is disputed (Western Sahara and Somaliland). 
 
 # Technology
 
