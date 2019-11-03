@@ -1,9 +1,10 @@
 # AfriNet Magazine
-![Screenshot (2)](https://user-images.githubusercontent.com/56429898/68080200-8b928a00-fe31-11e9-9cca-0449d28708b8.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/56429898/68080200-8b928a00-fe31-11e9-9cca-0449d28708b8.png) 
+
 ## Introduction
   
 * This website will help people to know more about Africa as the second largest continent in the world, both by land area and population. There are 54 countries located in Africa. Aside from 54 recognized states, there are two states whose independence is disputed (Western Sahara and Somaliland). 
-
+ 
 ### Technology
 
 * I will use html,css, boostrap and I will add Java.
