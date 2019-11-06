@@ -41,4 +41,4 @@ Left column(75% of the page) and Right column (23% of the page). On Left column 
 * Week 15 : Final Release
 
 # Live Demo
-link it to live site  https://2017070162.github.io/AfriNet/.
+ https://2017070162.github.io/AfriNet/
