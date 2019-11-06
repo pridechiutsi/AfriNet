@@ -33,6 +33,12 @@ Left column(75% of the page) and Right column (23% of the page). On Left column 
 
 Week 8 : Github update
 Week 9 : Setting home pages and css
+Week 10 : Completion of Front-End
+Week 11 : Backend Optimization
+Week 12 : Frontend Optimization
+Week 13 : Backend Debugging and Stress testing
+Week 14 : Upgrade Ops based on Teacher's Input
+Week 15 : Final Release
 
 # Live Demo
 link it to live site  https://2017070162.github.io/AfriNet/.
